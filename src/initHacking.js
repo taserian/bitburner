@@ -10,6 +10,8 @@ const filesToDownload = [
     'killAll.js',
     'runHacking.js',
     'find.js',
+    'solve-contract.js',
+    'contract-auto-solver.js',
 ]
 const valuesToRemove = ['BB_SERVER_MAP']
 
